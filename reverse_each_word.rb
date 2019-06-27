@@ -1,3 +1,3 @@
 def reverse_each_word(string)
   array = string.split(" ")
-  array.each{ |n| 
+  array.each{ |n| puts n }
